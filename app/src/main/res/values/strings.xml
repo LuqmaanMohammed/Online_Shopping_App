@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Online Shopping</string>
+    <string name="name">Enter your Name</string>
+    <string name="email">Enter your mail</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Username from login</string>
+    <string name="nav_header_subtitle">gmail from login</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_account_info">Account Information</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_SignOut">Sign Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_gallery">"This is gallery "</string>
+    <string name="menu_slideshow">slideshow</string>
+    <string name="profilepic">profilePic</string>
+    <string name="acer">ACER</string>
+    <string name="habib_s">HABIB\'S</string>
+    <string name="rs_29_999">Rs.29,999</string>
+    <string name="free_size_t_shirt_combo">Free size T-shirt Combo</string>
+    <string name="rs_999">Rs.999</string>
+    <string name="bottle">bottle</string>
+    <string name="cart">cart</string>
+    <string name="shirt">shirt</string>
+    <string name="uname">Name</string>
+    <string name="username">username</string>
+    <string name="uEmail">Email</string>
+    <string name="address">Address</string>
+    <string name="uAddress">Banjara Hills, Hyderabad</string>
+    <string name="_12_4_2001">12-4-2001</string>
+    <string name="mobile">Mobile</string>
+    <string name="date">Date</string>
+    <string name="_91_9493953654">+91 9493953654</string>
+    <string name="_1">1</string>
+    <string name="no_items_added_to_the_cart">no items added to the cart</string>
+    <string name="placeOrder">Place Order</string>
+</resources>
